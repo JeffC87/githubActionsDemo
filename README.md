@@ -11,6 +11,7 @@ My motivation for this project was to learn and experience the continous deploym
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Links](#links)
 - [Questions](#questions)
 
 ## Installation
@@ -29,6 +30,11 @@ The use of the actual project are self explanitory after opening the render link
 ## License
 
 This application is covered under the [The MIT License](https://opensource.org/licenses/MIT)
+
+## Links
+
+[GitHub Repository](https://github.com/JeffC87/githubActionsDemo)
+[Deployed App](https://githubactionsdemo.onrender.com)
 
 ## Questions
 
