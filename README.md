@@ -34,6 +34,7 @@ This application is covered under the [The MIT License](https://opensource.org/l
 ## Links
 
 [GitHub Repository](https://github.com/JeffC87/githubActionsDemo)
+<br>
 [Deployed App](https://githubactionsdemo.onrender.com)
 
 ## Questions
